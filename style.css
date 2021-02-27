@@ -1,0 +1,18 @@
+.container {
+    background-color: aliceblue;
+    /* text-align: center; */
+    margin-top: 20px;
+}
+
+#addtoDo {
+    margin-left: 5px;
+    background-color: rgb(243, 85, 12);
+}
+.modal-title {
+    padding-left: 5px;
+}
+#appendButton {
+    margin-left: 5px;
+    background-color:#0d6efd;
+    color: white;
+}
